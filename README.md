@@ -34,5 +34,3 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 ---
 
 Repositório original criado pela Rocketseat [nesse link](https://github.com/rocketseat-education/nlw-06-origin).
-
-teste
